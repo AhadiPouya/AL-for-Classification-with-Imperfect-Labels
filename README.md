@@ -1,1 +1,1 @@
-# AL-for-Classification-with-Imperfect-Labels
+# Optimal Labeler Assignment and Sampling for Active Learning in the Presence of Imperfect Labels
